@@ -37,30 +37,29 @@
 ### Nachbedingungen/Ergebnis
 - Auswertung der drei Zonen
 - Zone, Alter, Herzfrequenz
-  rote Zone:
-  20, ab 180
-  30, ab 171
-  40, ab 162
-  50, ab 153
-  60, ab 144
-  70, ab 135
-  für alle Alterstufen: unter 60
+  rote Zone: für alle Alterstufen: unter 60
+  20, ab 180;
+  30, ab 171;
+  40, ab 162;
+  50, ab 153;
+  60, ab 144;
+  70, ab 135;
 
   orange Zone:
-  20: 150-179
-  30: 143-170
-  40: 135-161
-  50: 128-152
-  60: 120-143
-  70: 113-134
+  20: 150-179;
+  30: 143-170;
+  40: 135-161;
+  50: 128-152;
+  60: 120-143;
+  70: 113-134;
 
   grüne Zone:
-  20: 120-149
-  30: 114-142
-  40: 108-134
-  50: 102-127
-  60: 96-119
-  70: 90-112
+  20: 120-149;
+  30: 114-142;
+  40: 108-134;
+  50: 102-127;
+  60: 96-119;
+  70: 90-112;
 
 
 ### Standartablauf
